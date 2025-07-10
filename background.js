@@ -33,7 +33,7 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
     );
   }
 });
-
+// adding new comment
 // Function to extract the main content of the page
 function extractMainContent() {
   // A copy of the body to avoid modifying the live page
