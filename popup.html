@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Doc AI Summarizer</title>
+  <title>Doc AI Assistant</title>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-  <h1>Summary</h1>
-  <div id="summary">Loading...</div>
+  <h1>AI English Helper</h1>
+  <textarea id="promptInput" placeholder="Enter your text here..."></textarea>
+  <select id="promptType">
+    <option value="correct_prompt">Correct Prompt</option>
+    <option value="en_to_bn">English to Bangla</option>
+  </select>
+  <button id="submitBtn">Submit</button>
+  <div id="response"></div>
+  <button id="copyBtn" class="cpy">Copy</button>
   <script src="popup.js"></script>
 </body>
 </html>

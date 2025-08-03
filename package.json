@@ -1,7 +1,21 @@
 {
   "type": "module",
+  "name": "doc-ai-summarizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getAiData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "@google/genai": "^1.9.0",
-    "dotenv": "^17.2.0"
+    "@google/genai": "^0.1.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "vite": "^5.3.3"
   }
 }
