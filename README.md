@@ -1,6 +1,6 @@
-# AI prompt enhancing Chrome Extension
+# AI Prompt Enhancing Chrome Extension
 
-This Chrome extension organise the un organised prompt using the Gemini API.
+This Chrome extension organizes unstructured prompts and refines them using the Gemini API.
 
 ## Setup
 
