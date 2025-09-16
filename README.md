@@ -1,6 +1,6 @@
-# Document Summarizer Chrome Extension
+# AI prompt enhancing Chrome Extension
 
-This Chrome extension summarizes the content of any web page using the Gemini API.
+This Chrome extension organise the un organised prompt using the Gemini API.
 
 ## Setup
 
