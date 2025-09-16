@@ -1,7 +1,7 @@
 {
   "type": "module",
-  "name": "doc-ai-summarizer",
-  "version": "1.0.0",
+  "name": "ai-prompting",
+  "version": "1.2.0",
   "description": "",
   "main": "getAiData.js",
   "scripts": {

@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Doc AI Summarizer",
-  "version": "1.0",
-  "description": "Summarizes documentation using Gemini AI.",
+  "name": "AI Prompting",
+  "version": "1.1",
+  "description": "Prompt enhancing using Gemini AI.",
   "permissions": [
     "activeTab",
     "scripting",
